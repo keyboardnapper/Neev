@@ -1,0 +1,14 @@
+{
+  "name": "neev",
+  "version": "1.0.0",
+  "description": "Real estate analysis and development system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "H",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
